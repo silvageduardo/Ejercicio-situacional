@@ -3,7 +3,7 @@ const nav = `
 <ul class="nav">
 	<li><a href="">Usuario</a>
 		<ul>
-            <li> <a href="Ejercicio situacional.html">Log in</a> </li>
+            <li> <a href="index.html">Log in</a> </li>
 		</ul>
 	</li>
 </ul>
